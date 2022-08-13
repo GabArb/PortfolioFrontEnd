@@ -1,0 +1,22 @@
+{
+  "name": "portfoliofrontend",
+  "version": "0.0.0",
+  "description": "Front End de portfolio para Argentina Programa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabArb/PortfolioFrontEnd.git"
+  },
+  "author": "Gabriel Arballo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabArb/PortfolioFrontEnd/issues"
+  },
+  "homepage": "https://github.com/GabArb/PortfolioFrontEnd#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}

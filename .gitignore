@@ -1,0 +1,3 @@
+#ignore bootstrap nodes
+node_modules/
+
